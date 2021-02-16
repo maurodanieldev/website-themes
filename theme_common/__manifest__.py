@@ -68,5 +68,5 @@
         'views/s_compact_menu.xml',
         'views/s_event_slide.xml',
     ],
-    'application': False,
+    'application': True,
 }
